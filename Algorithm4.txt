@@ -1,0 +1,12 @@
+﻿Step1: start the program
+Step2: assign the variables a,b,c and d
+Step3: store the values of variables a,b and c from the console
+Step4: calculate d=((a+b)*c)
+Step5: check the condition
+           if d>= 100
+           Print ("number is greater than 100")
+
+          Else
+          Print ("number is lesser than 100")
+Step6: display the result
+Step7: stop the program

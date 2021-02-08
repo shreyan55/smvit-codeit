@@ -1,0 +1,5 @@
+﻿Step1: start the program
+Step2: assign the variables name,age and sex
+Step3: store the values of variable name, age and sex from the console
+Step4: display the result
+Step5: stop the program

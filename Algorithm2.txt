@@ -1,0 +1,11 @@
+﻿Step1: start the program
+Step2: assign the variable a
+Step3: store the value of variable a from the console
+Step4: check the condition
+             If a%2==0
+             Print ("even number")
+      
+            else
+            Print ("odd number")
+Step5: display the result
+Step6: stop the program
